@@ -1,5 +1,5 @@
 ## Image Classification of Human Facial Expression using Custom CNN Architecture
-***
+
 ### **Data Set** :
     1.Images for this data is Scrap from google using `All Images Download` Chrome Extension
     2.Image are Scrap for Happy Faces and Sad Faces
